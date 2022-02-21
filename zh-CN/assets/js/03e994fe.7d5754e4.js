@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstreamx_website=self.webpackChunkstreamx_website||[]).push([[395],{2174:function(a){a.exports=JSON.parse('{"allTagsPath":"/zh-CN/blog/tags","slug":"/zh-CN/blog/tags/data-stream","name":"DataStream","count":1,"permalink":"/zh-CN/blog/tags/data-stream"}')}}]);
